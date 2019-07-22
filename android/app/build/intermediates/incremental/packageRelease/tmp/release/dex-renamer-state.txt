@@ -1,0 +1,4 @@
+#Mon Jul 15 09:21:14 WIB 2019
+base.0=/Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.0=classes.dex
+path.0=classes.dex

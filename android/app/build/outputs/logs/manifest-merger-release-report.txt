@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.60.3] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/43892c6b6a5f4733c1fcb67303ba5e41/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/acc6739fa6b4bc545d116083bb06b30d/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/7926115b956dbbf7af09b2c23cef9ea6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/f43a4464672ec232d62b961a6b255231/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/f1f27ace377076c85059556ba62634fe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/58ee2bd041a053ae38a6d90edc7845dd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/cee2444ae63fd52abb6ada1e46d2b8a1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/2c5bcfa0ffe0062b0bfe0ea4af0a256a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/12c3dc9094b559cdee7cca55da4ba2e6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/5a3bb1478778432481fcfe51af5e5634/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/b9bd4557404a006d933abe47f39a1058/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/1fe9c6b2ce4d782032e0de755a76bcee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/234aa98e591f56d09d2b2e5d248567c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/901b26b58b12072d7275dc73aba84e20/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/92978fac1332f945214f5f13adb6df6e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/ca5c0ee16a4afa61381013e3a2d940a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/53441892661aa5d420fd5bf7fa7b238e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/d6fcdd8ebe8050e32909129d02a3dd3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/bedc835ac64f1e00e19cfdd911b55708/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/54308186f03d742c1bb1ed982b8ab409/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/d09a18919a2a7f39130d0c4e049701b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/6e3c827a08c4755cd9d334359817a38a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/53abc013d1cb8efeb90cf23e74badb83/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/3c7a35e8f7ae6ec8f5b2d4c1b0107caa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/30ee292dad6d3feda7c20d3612300815/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/6817758f10c2e87cea45e3824a838345/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/48d792530bc34c58f72b07b880028827/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/c5e33ac26b53266df6892035ef402394/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/a4fcae2e8b9133b05794161a3cc7683c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/b8b6ab36644279174b1c98f799cf6738/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/634576aa99cdb88263b0bc5852a6bc30/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/3db9719b5ae77dd9adcd451502fd8845/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/541c60671cf755c301d1ba3eef627c2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/8fc3ade4a7673f06235446a634a95b7c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/6f391b85e69344ac6b690746271a06dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/9d4bd52dbe31304b1a3c01fb542b58f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/bfd892a0771506722e69644640599659/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.3] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/43892c6b6a5f4733c1fcb67303ba5e41/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.3] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/43892c6b6a5f4733c1fcb67303ba5e41/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/b9bd4557404a006d933abe47f39a1058/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/b9bd4557404a006d933abe47f39a1058/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/30ee292dad6d3feda7c20d3612300815/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/30ee292dad6d3feda7c20d3612300815/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/6817758f10c2e87cea45e3824a838345/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/6817758f10c2e87cea45e3824a838345/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/30ee292dad6d3feda7c20d3612300815/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.pokemon.MainActivity
+ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.60.3] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/43892c6b6a5f4733c1fcb67303ba5e41/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.3] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/43892c6b6a5f4733c1fcb67303ba5e41/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/acc6739fa6b4bc545d116083bb06b30d/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/acc6739fa6b4bc545d116083bb06b30d/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/7926115b956dbbf7af09b2c23cef9ea6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/7926115b956dbbf7af09b2c23cef9ea6/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/f43a4464672ec232d62b961a6b255231/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/f43a4464672ec232d62b961a6b255231/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/f1f27ace377076c85059556ba62634fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/f1f27ace377076c85059556ba62634fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/58ee2bd041a053ae38a6d90edc7845dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/58ee2bd041a053ae38a6d90edc7845dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/cee2444ae63fd52abb6ada1e46d2b8a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/cee2444ae63fd52abb6ada1e46d2b8a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/2c5bcfa0ffe0062b0bfe0ea4af0a256a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/2c5bcfa0ffe0062b0bfe0ea4af0a256a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/12c3dc9094b559cdee7cca55da4ba2e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/12c3dc9094b559cdee7cca55da4ba2e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/5a3bb1478778432481fcfe51af5e5634/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/5a3bb1478778432481fcfe51af5e5634/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/b9bd4557404a006d933abe47f39a1058/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/b9bd4557404a006d933abe47f39a1058/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/1fe9c6b2ce4d782032e0de755a76bcee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/1fe9c6b2ce4d782032e0de755a76bcee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/234aa98e591f56d09d2b2e5d248567c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/234aa98e591f56d09d2b2e5d248567c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/901b26b58b12072d7275dc73aba84e20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/901b26b58b12072d7275dc73aba84e20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/92978fac1332f945214f5f13adb6df6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/92978fac1332f945214f5f13adb6df6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/ca5c0ee16a4afa61381013e3a2d940a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/ca5c0ee16a4afa61381013e3a2d940a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/53441892661aa5d420fd5bf7fa7b238e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/53441892661aa5d420fd5bf7fa7b238e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/d6fcdd8ebe8050e32909129d02a3dd3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/d6fcdd8ebe8050e32909129d02a3dd3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/bedc835ac64f1e00e19cfdd911b55708/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/bedc835ac64f1e00e19cfdd911b55708/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/54308186f03d742c1bb1ed982b8ab409/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/54308186f03d742c1bb1ed982b8ab409/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/d09a18919a2a7f39130d0c4e049701b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/d09a18919a2a7f39130d0c4e049701b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/6e3c827a08c4755cd9d334359817a38a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/6e3c827a08c4755cd9d334359817a38a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/53abc013d1cb8efeb90cf23e74badb83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/53abc013d1cb8efeb90cf23e74badb83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/3c7a35e8f7ae6ec8f5b2d4c1b0107caa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/3c7a35e8f7ae6ec8f5b2d4c1b0107caa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/30ee292dad6d3feda7c20d3612300815/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/30ee292dad6d3feda7c20d3612300815/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/6817758f10c2e87cea45e3824a838345/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/6817758f10c2e87cea45e3824a838345/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/48d792530bc34c58f72b07b880028827/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/48d792530bc34c58f72b07b880028827/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/c5e33ac26b53266df6892035ef402394/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/c5e33ac26b53266df6892035ef402394/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/a4fcae2e8b9133b05794161a3cc7683c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/a4fcae2e8b9133b05794161a3cc7683c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/b8b6ab36644279174b1c98f799cf6738/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/b8b6ab36644279174b1c98f799cf6738/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/634576aa99cdb88263b0bc5852a6bc30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/634576aa99cdb88263b0bc5852a6bc30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/3db9719b5ae77dd9adcd451502fd8845/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/3db9719b5ae77dd9adcd451502fd8845/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/541c60671cf755c301d1ba3eef627c2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/541c60671cf755c301d1ba3eef627c2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/8fc3ade4a7673f06235446a634a95b7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/8fc3ade4a7673f06235446a634a95b7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/6f391b85e69344ac6b690746271a06dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/6f391b85e69344ac6b690746271a06dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/9d4bd52dbe31304b1a3c01fb542b58f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/9d4bd52dbe31304b1a3c01fb542b58f8/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/bfd892a0771506722e69644640599659/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/bfd892a0771506722e69644640599659/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/src/main/AndroidManifest.xml
