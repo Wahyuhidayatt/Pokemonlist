@@ -66,17 +66,19 @@ export default class App extends Component {
     .then(res => {
       const PokemonList = res.data;
       this.setState({
-         items:PokemonList.items.data.pokemon.evolutions
+         items:PokemonList
        });
     })
   }
+
+ 
   render() {
     const Data = this.state
     console.log(Data);
     return (
       <View style={{flex: 1}}>
         <View style={{flex: 1, backgroundColor: 'powderblue'}}>
-        <Text>{Data}</Text>
+          <Text>TESTTT</Text>
         </View>
         <View style={{flex: 12, backgroundColor: 'skyblue', flexDirection : 'row', flexWrap: 'wrap',  justifyContent : 'center',}}>
           <View style={styles.head}>
@@ -105,11 +107,20 @@ export default class App extends Component {
           </View>
           <View style={styles.head}>
             <Text>POKEMON</Text>
+            {this.lapsList()}
           </View>
         </View>  
       </View>
     );
   }
+  lapsList() {
+    return this.state.items.map((data) => {
+      return (
+        <View><Text>{data.name}</Text></View>
+      )
+    })
+
+}
 };
 const styles = StyleSheet.create({
   head : {

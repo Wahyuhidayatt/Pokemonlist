@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
+            "outputFile": "/Users/wahyuhidayat/Documents/MyApps/pokemon/Pokemonlist/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
             "map": [
                 {
                     "source": "/Users/wahyuhidayat/.gradle/caches/transforms-2/files-2.1/30ee292dad6d3feda7c20d3612300815/res/values-ro/values-ro.xml",

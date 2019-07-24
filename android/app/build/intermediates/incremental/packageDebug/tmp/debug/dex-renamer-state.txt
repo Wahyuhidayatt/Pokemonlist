@@ -1,4 +1,4 @@
-#Fri Jul 19 13:23:08 WIB 2019
-base.0=/Users/wahyuhidayat/Documents/MyApps/pokemon/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Tue Jul 23 11:30:26 WIB 2019
+base.0=/Users/wahyuhidayat/Documents/MyApps/pokemon/Pokemonlist/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex
